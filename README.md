@@ -2,9 +2,9 @@
 
 ## Requirements
 
-Ruby installed on your computer
-A terminal or command prompt
-A text editor such as Visual Studio Code
+Ruby installed on your computer<br>
+A terminal or command prompt<br>
+A text editor such as Visual Studio Code<br>
 
 ## How to Run
 
